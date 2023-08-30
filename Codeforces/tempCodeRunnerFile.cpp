@@ -1,9 +1,5 @@
-cout << "Sorted array: ";
-    for (int num : a) {
-        cout << num << " ";
-    } 
-        
-        
-        
-
-	}
+#ifndef cpp
+    freopen("input.txt", "r",stdin);
+    freopen("output.txt", "w",stdout);
+    #endif
+    
